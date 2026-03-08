@@ -6,7 +6,7 @@ Corpus team-level Copilot instructions for the [osinfra-io](https://github.com/o
 
 This repository is the **corpus team level** of a three-level GitHub Copilot instruction hierarchy. Instructions here apply to all `pt-corpus-*` repositories.
 
-```
+```none
 Platform   pt-ai-context                   ← universal conventions for all pt-* repos
   └── Team   pt-corpus-ai-context          ← this repo (applies to all pt-corpus-* repos)
         └── Repo   .github/copilot-instructions.md   ← in every repo (repo-specific only)
