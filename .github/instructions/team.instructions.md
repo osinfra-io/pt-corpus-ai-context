@@ -1,6 +1,7 @@
 ---
 applyTo: "**/pt-corpus-*/**"
 ---
+
 # Corpus Team Instructions
 
 ## GitHub Actions
