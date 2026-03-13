@@ -14,8 +14,6 @@ Corpus uses a three-tier deployment workflow:
 
 The main workspace and `regional/` workspace each have their own workflow jobs and deploy independently. Regional jobs run after the main workspace completes.
 
-When modifying workflows, update the Mermaid diagram in `README.md` to reflect the changes.
-
 ## Repository Practices
 
 - Local development does not have access to OpenTofu state — plans and applies run exclusively in GitHub Actions.
