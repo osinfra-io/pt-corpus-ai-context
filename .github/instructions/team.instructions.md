@@ -1,5 +1,5 @@
 ---
-applyTo: "**/pt-corpus-*/**"
+applyTo: "**/pt-corpus*/**"
 ---
 
 # Corpus Team Instructions
